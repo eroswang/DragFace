@@ -12,7 +12,7 @@ A detailed blog post is available on Medium (Towards Data Science):https://towar
 
 ## Current Results:
 
-![GitHub Logo](/images/header for blog.jpg)
+![GitHub Logo](/images/header.jpg)
 
 
 ## Next Steps
