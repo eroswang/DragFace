@@ -12,7 +12,7 @@ A detailed blog post is available on Medium (Towards Data Science):https://towar
 
 ## Current Results:
 
-![](/images/header.jpg)
+![](/image/header.jpg)
 
 
 ## Next Steps
