@@ -8,7 +8,7 @@ This repo is set up to document my project progress "DragFace"
 
 Model training code can be viewed [here](https://github.com/eroswang/Data-Science-Portfolio/blob/master/Dragface_02.ipynb)
 
-A detailed blog post is available on [Medium (Towards Data Science)](https://towardsdatascience.com/dragface-training-a-gan-for-drag-queen-transformation-7daf1958e517)
+A detailed blog post is available on [Medium.com (Towards Data Science)](https://towardsdatascience.com/dragface-training-a-gan-for-drag-queen-transformation-7daf1958e517)
 
 ## Current Results:
 
